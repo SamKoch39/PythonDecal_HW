@@ -1,2 +1,2 @@
 # PythonDecal
-First Repo
+Homework for ASTRON 98, Python Decal
