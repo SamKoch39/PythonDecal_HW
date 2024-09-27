@@ -1,0 +1,24 @@
+1. What are 3-5 (or more) commands that you can use on terminal and what do they do? What language is your computer terminal in?
+	1. To see what directory you're in
+		a. cd
+	2. Get into a new directory
+		a. cd New/Path
+	3. See the contents of the directory you're in
+		a. dir
+	4. Make a new directory
+		a. mkdir dir_name
+The Windows terminal is written in C++.
+ 
+2. Do you have pets? What kind?
+Yes, I have two dogs named Wally and Pixie. Wally is a Cavalier King Charles Spaniel-Poodle mix (crusty white dog), and Pixie is a miniature pinscher-poodle mix (crusty gray dog).
+
+3. If you run across an error, what would your first course of action be?
+My first course of action would be to read the error and determine whether I understand why it occurred. Regardless, I would reread my code to see whether I can identify anything wrong. If I can't and I didn't understand the error, I would look up the meaning and how to fix it. If I still couldn't figure it out at that point, I would ask a friend and lastly an Instructor.
+ 
+4. Funniest thing that happened to you in high school.
+The funniest thing that happened to me in high school was my ridiculous math teacher. She would spend classes talking about how aliens are the cause of a huge boulder getting put into place or how her daughter was a miracle baby. She would say the wildest things and my classmates and eye would just look at each other like ._.
+
+5. What is a python script? (Keep it simple)
+A python script is a file containing code that is meant to be run in order to accomplish something. It contains what is essentially a set of directions telling your computer to perform a task.
+
+
